@@ -2,7 +2,7 @@
 
 A modern, interactive AI chatbot powered by Google's Gemini AI. Built with Streamlit and Python, Lumi provides engaging conversations with a beautiful, user-friendly interface.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](https://simple-chatbot-l4wg.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](https://lumi-chatbot-5dfo.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 
@@ -20,7 +20,7 @@ A modern, interactive AI chatbot powered by Google's Gemini AI. Built with Strea
 
 ## 🚀 Live Demo
 
-Try out Lumi here: [Live Demo](https://simple-chatbot-l4wg.onrender.com)
+Try out Lumi here: [Live Demo](https://lumi-chatbot-5dfo.onrender.com)
 
 ## 📋 Prerequisites
 
@@ -86,7 +86,7 @@ Try out Lumi here: [Live Demo](https://simple-chatbot-l4wg.onrender.com)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/lumi-chatbot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/DhruvKanzaria/Lumi-ChatBot/issues).
 
 ## 💖 Support
 
