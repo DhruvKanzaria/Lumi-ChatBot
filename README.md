@@ -32,7 +32,7 @@ Try out Lumi here: [Live Demo](https://lumi-chatbot-5dfo.onrender.com)
 
 1. **Clone the repository** (or download the ZIP)
    ```bash
-   git clone https://github.com/yourusername/lumi-chatbot.git
+   git clone https://github.com/DhruvKanzaria/Lumi-ChatBot.git
    cd lumi-chatbot
    ```
 
