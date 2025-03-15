@@ -6,7 +6,7 @@ A modern, interactive AI chatbot powered by Google's Gemini AI. Built with Strea
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 
-![Lumi Chat Interface](https://github.com/DhruvKanzaria/Simple-ChatBot/blob/b478820cad0e62b1dd45577ad6e8b21ce0d077a9/Screenshot.png) <!-- Add your screenshot URL here -->
+![Lumi Chat Interface](https://github.com/DhruvKanzaria/Lumi-ChatBot/blob/fe9c527018ba1b3515d39b8db9f21668fab968a6/Screenshot.png) <!-- Add your screenshot URL here -->
 
 ## 🌟 Features
 
