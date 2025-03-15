@@ -2,11 +2,11 @@
 
 A modern, interactive AI chatbot powered by Google's Gemini AI. Built with Streamlit and Python, Lumi provides engaging conversations with a beautiful, user-friendly interface.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](your-deployment-url-here)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](https://simple-chatbot-l4wg.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 
-![Lumi Chat Interface](screenshot-url-here) <!-- Add your screenshot URL here -->
+![Lumi Chat Interface](https://github.com/DhruvKanzaria/Simple-ChatBot/blob/b478820cad0e62b1dd45577ad6e8b21ce0d077a9/Screenshot.png) <!-- Add your screenshot URL here -->
 
 ## 🌟 Features
 
@@ -20,7 +20,7 @@ A modern, interactive AI chatbot powered by Google's Gemini AI. Built with Strea
 
 ## 🚀 Live Demo
 
-Try out Lumi here: [Live Demo](your-deployment-url-here)
+Try out Lumi here: [Live Demo](https://simple-chatbot-l4wg.onrender.com)
 
 ## 📋 Prerequisites
 
@@ -77,31 +77,12 @@ Try out Lumi here: [Live Demo](your-deployment-url-here)
 3. Create a new API key
 4. Copy the key and add it to your `.env` file
 
-## 🚀 Deployment
-
-### Deploy to Streamlit Cloud
-
-1. Create a [Streamlit Cloud](https://streamlit.io/cloud) account
-2. Connect your GitHub repository
-3. Add your `GOOGLE_API_KEY` to Streamlit Cloud secrets
-4. Deploy your app
-
-### Alternative Deployment Options
-
-- **Heroku**: Follow [Heroku's Python deployment guide](https://devcenter.heroku.com/articles/getting-started-with-python)
-- **Railway**: Use [Railway's automated deployment](https://railway.app/)
-- **DigitalOcean**: Deploy using [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Dhruv**
 - AI/ML Software Developer
-- [GitHub Profile](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub Profile](https://github.com/DhruvKanzaria)
+- [LinkedIn](https://www.linkedin.com/in/dhruv-kanzaria/)
 
 ## 🤝 Contributing
 
