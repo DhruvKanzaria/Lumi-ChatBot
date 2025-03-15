@@ -51,8 +51,8 @@ def get_gimini_response(question, chat_history):
         st.session_state.chat_instance = init_chat()
         return None
 
-st.set_page_config(page_title="Simple Q/A ChatBot")
-st.title("Simple Q/A ChatBot")
+st.set_page_config(page_title="Lumi ChatBot")
+st.title("Lumi ChatBot")
 
 # Initialize chat history
 if 'messages' not in st.session_state:
